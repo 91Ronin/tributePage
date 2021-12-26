@@ -1,0 +1,110 @@
+body {
+font-size: 1rem;
+color: white;
+
+}
+
+#main {
+  background-color: #001933;
+  border-radius: 10px;
+  padding:1rem;
+  font-size: 1.5rem;
+}
+
+#title {
+  text-align: center;
+  margin: 50px;
+}
+
+#subHeading1 {
+text-align: center;
+padding: 1rem;
+
+}
+
+#imamge {
+  display: block;
+  width: 800px;
+  max-width: auto;
+  border-radius: 10px 10px 0px 0px;
+  border: white solid 3px;
+  margin: 0px auto;
+}
+
+
+.column1 {
+  display: inline;
+  }
+.column2 {
+  display: inline;
+  
+}
+
+#entryQuote {
+  background: #606060d1;
+  padding: 1rem;
+  border-radius: 0px 0px 20px 20px;
+  border: 3px solid #fff;
+  margin: 20px 0px 20px 0px ;
+}
+
+.webpage-bg-img {
+  border: 5px solid white;
+  border-width: 3px;
+}
+
+
+.timelineContainer { 
+  background-image: url("https://media.wired.com/photos/60a2cdb7c4c56a005b6967c7/master/w_2560,c_limit/Arecibo-535007406.jpg");
+  background-repeat:no-repeat;
+  background-position: center;
+  height: auto;
+  width: 100%;
+  padding-top: 20px;
+  padding-bottom: 10px;
+  border: 3px solid #fff;
+  border-radius: 10px 10px 10px 10px;
+
+  }
+  
+#tribute-info {
+  
+  text-align: left;
+  max-width: 1200px;
+  max-height: 80%;padding: 0px 40px;
+  margin: auto;
+  margin-bottom: 20px;
+  line-height: 1.4;
+  background-color:#606060b1;
+    
+  border-radius: 20px;
+  border: 3px solid #fff;
+    
+}
+
+#timelineTitle {
+  text-align:center;  
+  font-size: 35px;
+  border-width: 50%;
+  display: block;
+  padding-bottom: 30px;
+  padding-top: 20px;
+}
+
+#personOfInterestQuote {
+  display: block;
+  border-radius: 20px;
+  padding: 1rem;
+  border: 3px solid #fff;
+  margin: 20px 0px 0px 0px;
+  background: #606060d1;
+  
+  }
+
+#moreInfo {
+  background: #606060d0;
+  padding: 1rem;
+  border-radius: 20px 20px 0px 0px;
+  border: 3px solid #fff;
+  font-size: 20px;
+}
